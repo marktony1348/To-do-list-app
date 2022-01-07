@@ -2,15 +2,16 @@
 
 body {
 font: normal normal 13px/16px "Open Sans", sans-serif;
-background: #dfdfdf;
+background: #312575;
+
 }
 
 .container{
 padding: 20px;
-width: 300px;
+width: 500px;
 margin: 0 auto;
 margin-top: 40px;
-background: white;
+background: rgb(172, 50, 50);
 border-radius: 5px;}
 
 form {
@@ -23,8 +24,8 @@ padding: 4px 15px 4px 5px;
 
 #button{
 display: inline-block;
-background-color:#fc999b;
-color:#ffffff;
+background-color:#24cc2b;
+color: #ffff;
 border-radius: 5px;
 text-align:center;
 margin-top:2px;
@@ -55,6 +56,6 @@ li > crossOutButton {
 	background: none;
 	border: none;
 	float: right;
-	color: #025f70;
+	color: #2b2b2b2b;
 	font-weight: 800;
 }
